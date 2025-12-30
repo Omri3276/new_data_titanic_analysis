@@ -11,7 +11,7 @@ print("Dataset shape:", df.shape)
 print("\nFirst few rows:")
 print(df.head())
 
-print("\nDataset info:")
+print("\nDataset info:")afsdgsdgds
 print(df.info())
 
 print("\nBasic statistics:")

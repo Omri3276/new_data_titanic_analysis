@@ -8,7 +8,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/datasciencedojo/datasets/mas
 
 # Display basic information
 print("Dataset shape:", df.shape)
-print("\nFirst few rows:")
+print("\nFirst few rows:")hi
 print(df.head())
 
 print("\nDataset info:")
